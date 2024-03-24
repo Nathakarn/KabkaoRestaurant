@@ -17,6 +17,7 @@ function About(){
                     From fresh,locally-sourced ingredients to a curated wind selection,
                     evert detail is crafted to elevate ypur dining experiance. Discover 
                     a symphony of tastes and textures at KABKAO.
+                    Enjoy with family
                     </p>
                 </section>
                 
